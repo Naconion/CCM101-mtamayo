@@ -1,4 +1,4 @@
-#LINUX DISTRIBUTION
+# LINUX DISTRIBUTION
 
 
 PRETTY_NAME="Ubuntu 24.04.4 LTS"
@@ -17,7 +17,7 @@ LOGO=ubuntu-logo
 
 
 
-#KERNEL VERSION
+# KERNEL VERSION
 
 
 
@@ -25,7 +25,7 @@ LOGO=ubuntu-logo
 
 
 
-#CPU INFORMATION
+# CPU INFORMATION
 
 
 
@@ -82,7 +82,7 @@ Vulnerabilities:
 
 
 
-#TOTAL MEMORY
+# TOTAL MEMORY
 
 
 
@@ -93,7 +93,7 @@ Swap:          1.0Gi          0B       1.0Gi
 
 
 
-#AVAILABLE DISK SPACE
+# AVAILABLE DISK SPACE
 
 
 Filesystem      Size  Used Avail Use% Mounted on
