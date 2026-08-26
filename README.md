@@ -4,3 +4,5 @@ This Repository will contains all my Laboratory activities i've done during this
 
 ## LABORATORY ACTIVITIES
 Laboratory-01-Welcome-to-the-Cloud
+
+Laboratory-02-Build-the-Cloud-Infrastructure-Blueprint 
