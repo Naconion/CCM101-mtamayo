@@ -63,7 +63,7 @@ AWS is recommended because the e-commerce company needs highly available infrast
 # Multi-Cloud Decision Matrix
 
 | Business Requirement | Recommended Platform | Justification |
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- |
 | **Startup Company** | AWS | Elastic scaling, free tier options, and vast startup community support. | 
 | **Enterprise Organization** | Azure / AWS | High compliance standards, enterprise support contracts, and hybrid options. |
 | **Microsoft Environment** | Microsoft Azure | Native SSO integration with Active Directory and simplified hybrid deployment. |
