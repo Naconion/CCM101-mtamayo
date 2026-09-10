@@ -117,3 +117,13 @@ tmpfs           952M   84K  952M   1% /dev/shm
 tmpfs           5.0M     0  5.0M   0% /run/lock
 /dev/vda16      881M  117M  703M  15% /boot
 /dev/vda15      105M  6.2M   99M   6% /boot/efi
+
+
+**If this Linux server were migrated to the cloud, which AWS, Azure, and GCP services could host it?**
+
+| Cloud Provider | Service                |
+| -------------- | ---------------------- |
+| **AWS**        | Amazon EC2             |
+| **Azure**      | Azure Virtual Machines |
+| **GCP**        | Google Compute Engine  |
+
