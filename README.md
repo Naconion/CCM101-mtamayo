@@ -15,4 +15,4 @@ This Laboratory activity is to introduce the Environment of KillerCoda by gather
 
 This Laboratory activity is to inspect the environment, identify infrastructure components, and prepare documentations.
 
-### [Laboratory 02 – Build the Cloud Infrastructure Blueprint](https://github.com/Naconion/CCM101-mtamayo/tree/92f86712acc92564ae1fa6c8d03e25c207143dc5/Laboratory-02-Build-the-Cloud-Infrastructure-Blueprint%20)](https://github.com/Naconion/CCM101-mtamayo/tree/c36786f9794ddb602c9b787d3d3ad7588115e0fb/Laboratory-03-Multi-Cloud-Explorer)
+### [Laboratory-03-Multi-Cloud-Explorer][(https://github.com/Naconion/CCM101-mtamayo/tree/92f86712acc92564ae1fa6c8d03e25c207143dc5/Laboratory-02-Build-the-Cloud-Infrastructure-Blueprint%20)](https://github.com/Naconion/CCM101-mtamayo/tree/c36786f9794ddb602c9b787d3d3ad7588115e0fb/Laboratory-03-Multi-Cloud-Explorer)
