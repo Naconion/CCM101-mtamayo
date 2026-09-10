@@ -1,4 +1,4 @@
-## Microsoft Azure
+# Microsoft Azure
 ## Brief Overview
 Microsoft Azure is Microsoft's comprehensive cloud computing platform that provides a wide range of cloud services for computing, storage, databases, networking, analytics, artificial intelligence, security, application development, and more. Azure enables organizations to build, deploy, and manage applications and infrastructure using Microsoft's global cloud infrastructure. It supports both traditional enterprise workloads and modern cloud-native applications, including virtual machines, containers, serverless applications, and managed databases.
 
