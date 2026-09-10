@@ -22,3 +22,15 @@
 **3. Which provider is strongest in Artificial Intelligence and Kubernetes?** GCP leads due to Google's development of Kubernetes and advanced TensorFlow/AI tooling.
 
 **4.  Which cloud platform would you personally choose and why?** Choose based on your primary skill set (e.g., AWS for overall versatility or Azure for enterprise administration).
+
+
+# Match the Cloud Services
+
+
+| Service Category        | AWS     | Azure                             | GCP                |
+| ----------------------- | ------- | --------------------------------- | ------------------ |
+| **Virtual Machine**     | **EC2** | **Azure Virtual Machines**        | **Compute Engine** |
+| **Object Storage**      | **S3**  | **Blob Storage**                  | **Cloud Storage**  |
+| **Identity Management** | **IAM** | **Microsoft Entra ID (Azure AD)** | **Cloud IAM**      |
+| **SQL Database**        | **RDS** | **Azure SQL Database**            | **Cloud SQL**      |
+| **Kubernetes**          | **EKS** | **AKS**                           | **GKE**            |
