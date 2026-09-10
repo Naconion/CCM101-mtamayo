@@ -1,6 +1,8 @@
 # CloudNova Technologies – Client Recommendations
-## Client A – Startup Company
-## Recommended Cloud Platform: Amazon Web Services (AWS)
+
+** Client A – Startup Company
+Recommended Cloud Platform: Amazon Web Services (AWS)**
+
 AWS is recommended because it provides a wide range of scalable cloud services that can help a startup launch an application without having to purchase and maintain physical infrastructure. Services such as AWS Lambda and Amazon DynamoDB can automatically scale as the number of users increases, which is useful for a startup expecting rapid growth. AWS also offers a pay-as-you-go model, allowing the company to start with relatively low infrastructure costs and increase its usage as the application grows. Its extensive selection of services also gives the startup flexibility to expand its application in the future.
 
 ## Recommended Services
