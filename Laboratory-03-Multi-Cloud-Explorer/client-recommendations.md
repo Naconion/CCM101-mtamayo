@@ -58,3 +58,14 @@ AWS is recommended because the e-commerce company needs highly available infrast
 - Amazon CloudFront – Delivers web content and application data from geographically distributed edge locations to improve performance for global customers.
 - Amazon RDS – Provides a managed relational database service for storing and managing transactional e-commerce data.
 - Amazon Route 53 – Provides scalable DNS and traffic-routing capabilities for directing customers to applications and services.
+
+
+# Multi-Cloud Decision Matrix
+
+| **Business Requirement** | Recommended Platform | Justification |
+| **Startup Company** | AWS | Elastic scaling, free tier options, and vast startup community support. | 
+| **Enterprise Organization** | Azure / AWS | High compliance standards, enterprise support contracts, and hybrid options. |
+| **Microsoft Environment** | Microsoft Azure | Native SSO integration with Active Directory and simplified hybrid deployment. |
+| **AI / Machine Learning** | GCP | Native TPU integration, advanced data analytics tools, and Vertex AI suite. | 
+| **Kubernetes Deployment** | GCP | Google created Kubernetes; GKE provides seamless management and automated ops. |
+| **Global Web Application** | AWS | High count of global edge locations and mature CDN services.  |
