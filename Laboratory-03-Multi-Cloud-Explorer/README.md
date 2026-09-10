@@ -16,17 +16,18 @@ one that best solves the client's problem.
 
 ## Mission Objectives
 At the end of this laboratory activity, you should be able to:
- Explore the major public cloud platforms.
- Identify the core services offered by AWS, Microsoft Azure, and Google Cloud Platform.
- Compare cloud services across different providers.
- Analyze business requirements and recommend appropriate cloud solutions.
- Create professional technical documentation using Markdown.
- Continue developing a well-organized GitHub Cloud Computing Portfolio.
-Required Resources
- KillerCoda Playground
- GitHub Account
- Modern Web Browser
- Stable Internet Connection
+- Explore the major public cloud platforms.
+- Identify the core services offered by AWS, Microsoft Azure, and Google Cloud Platform.
+- Compare cloud services across different providers.
+- Analyze business requirements and recommend appropriate cloud solutions.
+- Create professional technical documentation using Markdown.
+- Continue developing a well-organized GitHub Cloud Computing Portfolio.
+
+## Required Resources
+- KillerCoda Playground
+- GitHub Account
+- Modern Web Browser
+- Stable Internet Connection
 
 
 ## Operating System
