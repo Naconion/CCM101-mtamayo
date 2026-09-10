@@ -1,6 +1,6 @@
 # CloudNova Technologies – Client Recommendations
 
-** Client A – Startup Company
+**Client A – Startup Company
 Recommended Cloud Platform: Amazon Web Services (AWS)**
 
 AWS is recommended because it provides a wide range of scalable cloud services that can help a startup launch an application without having to purchase and maintain physical infrastructure. Services such as AWS Lambda and Amazon DynamoDB can automatically scale as the number of users increases, which is useful for a startup expecting rapid growth. AWS also offers a pay-as-you-go model, allowing the company to start with relatively low infrastructure costs and increase its usage as the application grows. Its extensive selection of services also gives the startup flexibility to expand its application in the future.
@@ -12,8 +12,8 @@ AWS is recommended because it provides a wide range of scalable cloud services t
 - Amazon CloudFront – A content delivery network that can deliver application content quickly to users in different locations.
 
 
-# Client B – University
-## Recommended Cloud Platform: Microsoft Azure
+**Client B – University
+Recommended Cloud Platform: Microsoft Azure**
 Microsoft Azure is the most appropriate platform because the university already uses Windows Server, Microsoft 365, and Active Directory. Azure provides strong integration with Microsoft's existing technologies, which can make the migration process easier and reduce the need to replace existing systems. The university can also connect its existing on-premises infrastructure with Azure to create a hybrid-cloud environment while gradually migrating services. Azure provides enterprise identity, security, management, and governance capabilities that are suitable for a university environment.
 
 ## Recommended Services
@@ -24,8 +24,8 @@ Microsoft Azure is the most appropriate platform because the university already 
 - Azure Backup – Can be used to protect important university data and workloads through cloud-based backup.
 
 
-# Client C – AI Research Company
-## Recommended Cloud Platform: Google Cloud Platform (GCP)
+**Client C – AI Research Company
+Recommended Cloud Platform: Google Cloud Platform (GCP)**
 Google Cloud is recommended because it provides strong infrastructure and services for Artificial Intelligence, Machine Learning, data analytics, and high-performance computing workloads. Google Cloud provides specialized computing resources and AI/ML services that can help researchers train and deploy complex machine learning models. Its scalable infrastructure allows the company to increase computing resources when large experiments or model-training workloads require additional capacity. Google Cloud's data analytics and AI ecosystem also provides tools for managing and processing large datasets used in AI research.
 
 ## Recommended Services
@@ -36,8 +36,8 @@ Google Cloud is recommended because it provides strong infrastructure and servic
 - BigQuery – Provides scalable data analytics for processing and analyzing large datasets.
 
 
-# Client D – Global E-Commerce Company
-## Recommended Cloud Platform: Amazon Web Services (AWS)
+**Client D – Global E-Commerce Company
+Recommended Cloud Platform: Amazon Web Services (AWS)**
 AWS is recommended because the e-commerce company needs highly available infrastructure capable of serving customers across different parts of the world. AWS provides a large global infrastructure consisting of multiple Regions and Availability Zones, allowing applications to be distributed geographically for improved availability and resilience. AWS also provides automatic scaling and load-balancing services that can dynamically respond to changes in customer traffic, which is especially important during events such as sales and holiday shopping periods. These capabilities allow the company to maintain application performance while efficiently handling sudden increases or decreases in demand.
 
 ## Recommended Services
