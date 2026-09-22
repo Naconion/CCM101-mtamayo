@@ -29,16 +29,25 @@ At the end of this laboratory activity, you should be able to:
 ## **Docker Commands Executed** (List all the commands you used in Checkpoints 3, 4, and 5)
 
 *Checkpoint 3*
+
 **docker --version**
+
 **docker info**
 
 *Checkpoint 4*
+
 **docker pull nginx**
+
 **docker run -d -p 8080:80 --name nginx-server nginx**
+
 **curl http://localhost:8080**
 
 *Checkpoint 5*
+
 **docker ps**
+
 **docker stop nginx-server**
+
 **docker ps -a**
+
 **docker rm nginx-server**
