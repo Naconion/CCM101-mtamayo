@@ -1,3 +1,5 @@
+# LABORATORY-04-CLOUD-NATIVE-ENGINEER
+
 ## Mission Overview
 
 Congratulations! After successfully guiding our clients through multi-cloud evaluations, you have been
@@ -51,3 +53,12 @@ At the end of this laboratory activity, you should be able to:
 **docker ps -a**
 
 **docker rm nginx-server**
+
+
+## Skills Learned
+
+I learned how to use basic Docker commands in a Linux environment. I learned how to download and run an Nginx container, map a host port to a container port, and test a web server using curl. I also learned how to check, stop, and remove Docker containers using Docker CLI commands. This activity helped me understand how containers can be used to deploy applications quickly and efficiently.
+
+## Challenges Encountered
+
+One challenge I encountered was entering the Docker commands correctly. While testing the Nginx web server, I accidentally entered an extra ~ after port 8080 in the curl command, which caused an error. I corrected the command by using curl http://localhost:8080, which allowed me to successfully test the Nginx web server. I also needed to understand how port mapping connects port 8080 on the host to port 80 inside the container.
