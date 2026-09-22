@@ -9,4 +9,7 @@
 
 ## Summary
 
-Containers can help web applications start faster and use fewer system resources than traditional virtual machines. Unlike VMs, containers do not need a complete guest operating system for every application. This makes containers useful for applications that need to be deployed quickly and consistently. For suitable web applications, containerization can therefore reduce resource usage and simplify deployment.
+Containers can help web applications start faster and use fewer system resources than traditional virtual machines. 
+Unlike VMs, containers do not need a complete guest operating system for every application. 
+This makes containers useful for applications that need to be deployed quickly and consistently. 
+For suitable web applications, containerization can therefore reduce resource usage and simplify deployment.
