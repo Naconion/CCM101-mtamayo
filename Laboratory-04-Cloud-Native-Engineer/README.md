@@ -13,15 +13,15 @@ the services running on them.
 
 ## Mission Objectives
 At the end of this laboratory activity, you should be able to:
- Differentiate between traditional Virtual Machines (VMs) and Containers.
- Access a Docker-enabled cloud environment using KillerCoda.
- Execute fundamental Docker CLI (Command Line Interface) commands.
- Pull, run, manage, and terminate a containerized application (Nginx).
- Create professional technical documentation of container operations using Markdown.
- Continue developing a well-organized GitHub Cloud Computing Portfolio.
+- Differentiate between traditional Virtual Machines (VMs) and Containers.
+- Access a Docker-enabled cloud environment using KillerCoda.
+- Execute fundamental Docker CLI (Command Line Interface) commands.
+- Pull, run, manage, and terminate a containerized application (Nginx).
+- Create professional technical documentation of container operations using Markdown.
+- Continue developing a well-organized GitHub Cloud Computing Portfolio.
 
 ## Required Resources
- KillerCoda Playground (Ubuntu or Docker environment)
- GitHub Account
- Modern Web Browser
- Stable Internet Connection
+- KillerCoda Playground (Ubuntu or Docker environment)
+- GitHub Account
+- Modern Web Browser
+- Stable Internet Connection
