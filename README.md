@@ -23,3 +23,8 @@ This Laboratory is to Explore the major public cloud platforms, Identify the cor
 ### [Laboratory-04-Cloud-Native-Engineer](https://github.com/Naconion/CCM101-mtamayo/tree/e69126d1b1b49cafc2fac4cfdd07bb021627ba6b/Laboratory-04-Cloud-Native-Engineer)
 
 This Laboratory activity is to teach us how to differentiate between traditional Virtual Machines (VMs) and Containers, access a Docker-enabled cloud environment using KillerCoda and execute fundamental Docker CLI (Command Line Interface) commands. Pull, run, manage, and terminate a containerized application (Nginx), create professional technical documentation of container operations using Markdown, continue developing a well-organized GitHub Cloud Computing Portfolio.
+
+
+### [Laboratory-05-Cloud-Data-Engineer](https://github.com/Naconion/CCM101-mtamayo/tree/4bb218d9a61664a9c18dc37e73aa781162f378f8/Laboratory-05-Cloud-Data-Engineer)
+
+This Laboratory activity helps me Differentiate between Block, File, and Object Storage. As well as to Deploy an S3-compatible Object Storage server (MinIO) using Docker and Access a cloud service via a web interface using port forwarding. Then Create a storage bucket and upload objects (files) to the cloud and Continue expanding a professional GitHub Cloud Computing Portfolio.
