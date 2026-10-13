@@ -11,11 +11,15 @@ At the end of this laboratory activity, you should be able to:
 - Create a storage bucket and upload objects (files) to the cloud.
 - Document cloud storage operations using Markdown.
 - Continue expanding a professional GitHub Cloud Computing Portfolio.
-## Required Resources ##
+- 
+## Required Resources / Tools used ##
+
 - KillerCoda Playground (Ubuntu or Docker environment)
 - GitHub Account
 - Modern Web Browser
 - Stable Internet Connection
+- MinIO
+- MinIO Web Console
 
 ## Mission Rules ##
 
@@ -25,3 +29,11 @@ At the end of this laboratory activity, you should be able to:
 4. Every checkpoint must include screenshots as evidence where applicable.
 5. Commit and push your work after completing each checkpoint.
 6. Academic honesty is expected. Collaboration is encouraged, but submitted work must be your own.
+
+
+## Skills Learned ##
+- Object Storage Deployment: Gained hands-on experience deploying and managing an S3-compatible cloud storage server using containerization.
+- Cloud Storage Differentiation: Developed a thorough theoretical understanding of the differences between Block, File, and Object storage types and their ideal use cases.
+- Container Configuration via Environment Variables: Learned how to pass runtime configuration settings and credentials securely into Docker containers using -e flags.
+- Port Forwarding & Web Console Management: Practiced mapping service ports and accessing internal container web applications securely through a browser.
+- Technical Documentation & Version Control: Enhanced ability to document cloud engineering procedures professionally in Markdown and maintain a structured GitHub portfolio.
