@@ -12,4 +12,10 @@ docker run -d -p 9000:9000 -p 9001:9001 --name minio-server \
   -e "MINIO_ROOT_PASSWORD=CloudNova2026!" \
   chainguard/minio:latest server /data --console-address ":9001"
 ```
-The port number used to access the web console is *9001*
+## Other technical steps done to achieve this ##
+- In your KillerCoda Playground, locate the "Traffic / Ports" or "Custom Ports" tab (usually found on the
+side or top menu of the interface).
+- Enter port 9001 and click "Access" to open the MinIO Web Console in a new browser tab.
+- Log in using the credentials you defined in the Docker command
+- Once logged in, navigate to Buckets on the left menu and click Create Bucket.
+- Name your bucket client-photos and save it.
