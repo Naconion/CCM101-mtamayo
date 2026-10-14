@@ -8,3 +8,6 @@ The Nextcloud application container locates and connects to the MariaDB database
 
 ```yaml
 MYSQL_HOST=database
+```
+## What is the difference between docker run (which you used in Mission 4) and docker-compose up -d?
+When Docker Compose deploys a stack, it automatically creates a dedicated internal network for the project and sets up built-in DNS resolution. Because the database service is explicitly named database in the configuration file, Docker's internal DNS maps the hostname database directly to the internal IP address of the MariaDB container. This allows the Nextcloud app container to seamlessly reach the database without needing hardcoded external IP addresses
