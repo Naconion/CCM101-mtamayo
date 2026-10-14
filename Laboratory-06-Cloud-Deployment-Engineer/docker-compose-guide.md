@@ -14,6 +14,6 @@ When Docker Compose deploys a stack, it automatically creates a dedicated intern
 
 ## docker run vs. docker-compose up -d
 
-*docker run* (Manual Command-Line Execution): Used to deploy a single container at a time. It requires typing long, complex command strings with multiple flags (-d, --name, -p, -e, etc.). It is difficult to scale, prone to manual typing errors, and requires managing containers individually.   
+*docker run* (Manual Command-Line Execution): Used to deploy a single container at a time. It requires typing long, complex command strings with multiple flags (*-d, --name, -p, -e, etc.*). It is difficult to scale, prone to manual typing errors, and requires managing containers individually.   
 
-*docker-compose up -d* (Infrastructure as Code): A declarative approach that reads a single docker-compose.yml configuration file to provision, configure, link, and start an entire multi-tier stack simultaneously in the background (-d) with one command. It makes infrastructure reproducible, version-controlled, and significantly easier to manage.
+*docker-compose up -d* (Infrastructure as Code): A declarative approach that reads a single docker-compose.yml configuration file to provision, configure, link, and start an entire multi-tier stack simultaneously in the background (*-d*) with one command. It makes infrastructure reproducible, version-controlled, and significantly easier to manage.
