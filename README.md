@@ -28,3 +28,8 @@ This Laboratory activity is to teach us how to differentiate between traditional
 ### [Laboratory-05-Cloud-Data-Engineer](https://github.com/Naconion/CCM101-mtamayo/tree/4bb218d9a61664a9c18dc37e73aa781162f378f8/Laboratory-05-Cloud-Data-Engineer)
 
 This Laboratory activity helps me Differentiate between Block, File, and Object Storage. As well as to Deploy an S3-compatible Object Storage server (MinIO) using Docker and Access a cloud service via a web interface using port forwarding. Then Create a storage bucket and upload objects (files) to the cloud and Continue expanding a professional GitHub Cloud Computing Portfolio.
+
+
+### [Laboratory-06-Cloud-Deployment-Engineer](https://github.com/Naconion/CCM101-mtamayo/tree/f38ae32f677e903f10b77537928aa15abd09c82c/Laboratory-06-Cloud-Deployment-Engineer)
+
+This Laboratory activity helps me explain the concept of a multi-tier application architecture and understand the purpose and structure of a docker-compose.yml file. It also helps me how to use a Linux command-line text editor (nano) to create configuration files and deploy a multi-container application (Nextcloud + Database) using Docker Compose. Then it also helps me Document deployment procedures and Infrastructure as Code (IaC) principles using Markdown and Continue expanding your professional GitHub Cloud Computing Portfolio.
