@@ -5,5 +5,6 @@ The `services:` block acts as the core blueprint section in a `docker-compose.ym
 
 ## Container Discovery: How Nextcloud Finds MariaDB
 The Nextcloud application container locates and connects to the MariaDB database container via the environment variable:
+
 ```yaml
 MYSQL_HOST=database
