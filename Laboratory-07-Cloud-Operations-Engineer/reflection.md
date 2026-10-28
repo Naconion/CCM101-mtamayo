@@ -1,4 +1,4 @@
-# Mission Reflection - Laboratory Activity 7
+# Mission Reflection
 
 ###  Why is it important to check the host server's resources even if your containers are running perfectly?
 Even if my containers are running smoothly, they still rely on the host machine’s actual hardware. 
