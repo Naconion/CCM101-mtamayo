@@ -24,3 +24,7 @@ At the end of this laboratory activity, you should be able to:
 
 ## Monitoring Commands Executed
 
+```text
+free -h, df -h, top, docker run, curl, docker logs, docker stats
+```
+
