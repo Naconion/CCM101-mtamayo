@@ -21,3 +21,6 @@ At the end of this laboratory activity, you should be able to:
 - Generate web traffic and extract application access logs for analysis.
 - Translate raw performance data into a readable technical report using Markdown.
 - Continue expanding a professional GitHub Cloud Computing Portfolio.
+
+## Monitoring Commands Executed
+
