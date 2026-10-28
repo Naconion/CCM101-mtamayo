@@ -33,3 +33,9 @@ This Laboratory activity helps me Differentiate between Block, File, and Object 
 ### [Laboratory-06-Cloud-Deployment-Engineer](https://github.com/Naconion/CCM101-mtamayo/tree/f38ae32f677e903f10b77537928aa15abd09c82c/Laboratory-06-Cloud-Deployment-Engineer)
 
 This Laboratory activity helps me explain the concept of a multi-tier application architecture and understand the purpose and structure of a docker-compose.yml file. It also helps me how to use a Linux command-line text editor (nano) to create configuration files and deploy a multi-container application (Nextcloud + Database) using Docker Compose. Then it also helps me Document deployment procedures and Infrastructure as Code (IaC) principles using Markdown and Continue expanding your professional GitHub Cloud Computing Portfolio.
+
+
+
+### [Laboratory-07-Cloud-Operations-Engineer](https://github.com/Naconion/CCM101-mtamayo/tree/11f250d7539466da70e89635b31c62a8bff81283/Laboratory-07-Cloud-Operations-Engineer)
+
+This Laboratory Activity made me learn how to Utilize native Linux command-line tools to monitor host CPU, Memory, and Disk capacity, and then how to deploy a web container and track its real-time performance using Docker metrics. It also teaches me how to Generate web traffic and extract application access logs for analysis.
