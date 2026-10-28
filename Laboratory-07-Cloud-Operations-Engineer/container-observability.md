@@ -7,6 +7,6 @@ Below is the specific log entry captured when simulating an invalid request (`/h
 172.17.0.1 - - [28/Oct/2026:11:54:42 +0000] "GET /hidden-admin-page HTTP/1.1" 404 153 "-" "curl/8.5.0" "-"
 ```
 
-## 2-sentence explanation of why application logs are vital for troubleshooting.
+## 2-Sentence explanation of why application logs are vital for troubleshooting.
 
 Application logs act as a reliable event trail by recording exact timestamps, client IP addresses, and specific HTTP response codes requested. They enable developers and Site Reliability Engineers to precisely isolate when, where, and why an error occurred without needing to guess.
