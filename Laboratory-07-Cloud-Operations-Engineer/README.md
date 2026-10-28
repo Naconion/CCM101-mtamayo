@@ -28,3 +28,6 @@ At the end of this laboratory activity, you should be able to:
 free -h, df -h, top, docker run, curl, docker logs, docker stats
 ```
 
+## Skills Learned 
+
+Through this laboratory activity, practical skills were gained in utilizing native Linux command-line tools (free, df, top) to establish a hardware performance baseline. Proficiency was also developed in deploying containerized web applications using Docker, simulating HTTP traffic via curl, and extracting real-time container metrics and application logs to perform effective troubleshooting and system observability.
