@@ -12,5 +12,8 @@ Below is the specific log entry captured when simulating an invalid request (`/h
 Application logs act as a reliable event trail by recording exact timestamps, client IP addresses, and specific HTTP response codes requested. They enable developers and Site Reliability Engineers to precisely isolate when, where, and why an error occurred without needing to guess.
 
 ## Client-Website CPU and Memory usage
+
+```text
 CONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS 
 5091d7394c70   client-website   0.00%     2.719MiB / 1.859GiB   0.14%     3.84kB / 5.29kB   0B / 12.3kB   2 
+```
