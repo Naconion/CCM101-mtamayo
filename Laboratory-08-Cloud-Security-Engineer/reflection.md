@@ -1,6 +1,6 @@
 # Mission 8 Reflection
 
-## **Host-Based Firewall Protection**
+**Host-Based Firewall Protection**
 
 A host-based firewall sits right on the operating system level of a single machine. Even if someone manages to bypass the outer network perimeter or router, this firewall acts as a solid last line of defense. It checks every incoming packet against strict local rules, which helps block attackers from moving laterally across internal cloud networks.
 
