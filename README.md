@@ -41,6 +41,6 @@ This Laboratory activity helps me explain the concept of a multi-tier applicatio
 This Laboratory Activity made me learn how to Utilize native Linux command-line tools to monitor host CPU, Memory, and Disk capacity, and then how to deploy a web container and track its real-time performance using Docker metrics. It also teaches me how to Generate web traffic and extract application access logs for analysis.
 
 
-### [Laboratory-07-Cloud-Operations-Engineer](https://github.com/Naconion/CCM101-mtamayo/tree/0f1ecee99bc1aa8848b570957eafb93d11794e81/Laboratory-08-Cloud-Security-Engineer)
+### [Laboratory-08-Cloud-Security-Engineer](https://github.com/Naconion/CCM101-mtamayo/tree/0f1ecee99bc1aa8848b570957eafb93d11794e81/Laboratory-08-Cloud-Security-Engineer)
 
 This Laboratory activity helps me Understand the concept of the Attack Surface and the Principle of Least Privilege (PoLP). It also teaches me how to Perform a basic security audit of active network ports on a Linux server and Configure the Uncomplicated Firewall (UFW) with a Default Deny policy. Then it helps me to Implement granular port management to selectively allow SSH and HTTP traffic.
