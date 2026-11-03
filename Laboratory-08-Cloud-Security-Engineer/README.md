@@ -19,3 +19,20 @@ At the end of this laboratory activity, you should be able to:
 - Implement granular port management to selectively allow SSH and HTTP traffic.
 - Document firewall rules and security best practices using Markdown.
 - Continue expanding your professional GitHub Cloud Computing Portfolio. 
+
+## Commands Executed
+- `docker run -d --name secure-web-app -p 8080:80 nginx`
+- `curl http://localhost:8080`
+- `sudo ufw allow ssh`
+- `sudo ufw default deny incoming`
+- `sudo ufw default allow outgoing`
+- `sudo ufw enable`
+- `sudo ufw status verbose`
+- `sudo ufw allow 8080/tcp`
+- `sudo ufw status numbered`
+
+## Skills Learned
+- Host-based firewall management using UFW.
+- Implementation of the Principle of Least Privilege in network infrastructure.
+- Application layer and transport layer port restriction (TCP 22 and 8080).
+- Prevention of common server lockout scenarios during administrative tasks.
