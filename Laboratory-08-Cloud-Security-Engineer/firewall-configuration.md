@@ -17,7 +17,7 @@ sudo ufw default allow outgoing
 ```bash
 sudo ufw allow 8080/tcp
 ```
-**A brief 1-sentence explanation of what would happen if you ran sudo ufw enable before running sudo
-ufw allow ssh.**
+## A brief 1-sentence explanation of what would happen if you ran sudo ufw enable before running sudo
+ufw allow ssh.
 
 If you run sudo ufw enable before running sudo ufw allow ssh, UFW immediately blocks all incoming traffic on Port 22. This instantly drops your active SSH session and permanently locks you out of the server, leaving you with no way back in unless you reset the instance.
