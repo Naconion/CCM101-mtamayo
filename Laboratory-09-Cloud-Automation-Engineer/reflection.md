@@ -1,1 +1,9 @@
+# Mission Reflection
 
+Throughout this activity, I realized how important automation is, especially when managing hundreds of cloud servers. Doing everything manually would take a lot of time and could lead to mistakes. With automation, tasks like backing up files can be done automatically, making the work faster and more reliable. However, I also learned that automation is not always perfect. A small mistake or typo in a script could cause serious problems, especially if it runs on many servers. This is why it is important to review and test scripts before allowing them to run automatically.
+
+Writing a Bash script was also a different experience compared to creating a Docker Compose YAML file in Mission 6. In Docker Compose, I mainly worked with configurations to set up and manage containers, while in Bash scripting, I had to write commands that perform specific tasks step by step. At first, it was a little confusing, but as I followed the instructions and tested the script, I slowly understood how it worked.
+
+Looking back at my GitHub repository from Laboratory 1 to Laboratory 9, I can say that my understanding of cloud computing has improved. Before, I only had a basic idea of what cloud computing was, but now I have experienced different areas such as infrastructure, deployment, cloud operations, security, and automation. Each laboratory helped me understand how these parts work together in managing cloud environments.
+
+Among the different roles, I enjoyed being a **Cloud Automation Engineer** because I found it interesting that I could create a script and let the system do the work automatically. Overall, this activity taught me that cloud computing is not just about setting up servers but also about making systems easier to manage, more efficient, and less dependent on manual work.
